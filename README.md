@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Professor of Technic and Informatics
-- 👀 I’m Android programer
+- 👀 I’m Android programmer 
 - 🌱 I’m currently learning Java and Android programming 
 - 💞️ I’m looking to collaborate on Java and Android programming 
 
